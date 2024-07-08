@@ -12,7 +12,7 @@ def main_page():
     st.write('<h4 style="font-size: 24px;">El hecho que hayas llegado asta aquí es un milagro </h4>', unsafe_allow_html=True)
     if st.button("Para Magia Click Aquí"):
         switch_page("Bien")
-    
+
     st.write("---")
 
    
